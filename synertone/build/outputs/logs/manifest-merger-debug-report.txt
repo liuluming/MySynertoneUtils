@@ -1,0 +1,1202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:2:1-610:12
+	package
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [src-app:ripplelayoutmaster:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\ripplelayoutmaster\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [src-app:slidingmenu_library:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\slidingmenu_library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:3:3-70
+MERGED from [src-app:pullToRefreshLibrary:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\pullToRefreshLibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [src-app:viewbguilib:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\viewbguilib\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+		INJECTED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:11:5-16:40
+	android:largeScreens
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:16:9-37
+	android:anyDensity
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.INTERNET
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:18:5-67
+MERGED from [src-app:initActivity:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\initActivity\unspecified\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:20:5-84
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:20:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:22:22-68
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.CAMERA
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:25:22-70
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:26:22-66
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:28:5-85
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:28:22-82
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:29:22-65
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:30:5-85
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:30:22-82
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.LOCATION_HARDWARE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:32:5-92
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:32:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:33:5-105
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:33:22-86
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:34:5-97
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:34:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:37:5-72
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:37:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:38:5-73
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:38:22-70
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:40:5-69
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:40:22-66
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:42:5-72
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:42:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:43:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:44:22-77
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:45:5-68
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:45:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:46:5-71
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:46:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:47:5-71
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:47:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:49:5-75
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:49:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:50:5-79
+MERGED from [src-app:initActivity:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\initActivity\unspecified\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:50:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:52:5-75
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:52:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:53:5-80
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:53:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:55:5-68
+MERGED from [src-app:initActivity:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\initActivity\unspecified\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:55:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:56:5-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:56:22-63
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:58:5-78
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:58:22-75
+uses-feature#android.hardware.camera
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:60:5-60
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:60:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:61:5-70
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:61:19-67
+application
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:63:5-609:19
+MERGED from [src-app:initActivity:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\initActivity\unspecified\AndroidManifest.xml:11:5-18:19
+MERGED from [src-app:ripplelayoutmaster:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\ripplelayoutmaster\unspecified\AndroidManifest.xml:11:5-15:19
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\AndroidManifest.xml:4:3-17
+MERGED from [src-app:pullToRefreshLibrary:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\pullToRefreshLibrary\unspecified\AndroidManifest.xml:11:5-16:19
+MERGED from [src-app:viewbguilib:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\viewbguilib\unspecified\AndroidManifest.xml:11:5-15:19
+	android:screenOrientation
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:68:9-43
+	android:label
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:67:9-41
+	android:supportsRtl
+		ADDED from [src-app:viewbguilib:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\viewbguilib\unspecified\AndroidManifest.xml:14:9-35
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:65:9-109
+	android:icon
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:66:9-42
+		REJECTED from [src-app:ripplelayoutmaster:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\ripplelayoutmaster\unspecified\AndroidManifest.xml:13:9-45
+		REJECTED from [src-app:pullToRefreshLibrary:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\pullToRefreshLibrary\unspecified\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from [src-app:ripplelayoutmaster:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\ripplelayoutmaster\unspecified\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from [src-app:pullToRefreshLibrary:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\pullToRefreshLibrary\unspecified\AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:69:9-50
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:64:9-54
+activity#com.my51c.see51.app.LoginActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:71:9-77:78
+	android:label
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:74:13-45
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:75:13-42
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:76:13-64
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:73:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:77:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:72:13-61
+activity#io.vov.vitamio.activity.InitActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:78:9-84:45
+MERGED from [src-app:initActivity:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\initActivity\unspecified\AndroidManifest.xml:12:9-17:63
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:81:13-43
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:83:13-60
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:80:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:82:13-71
+		REJECTED from [src-app:initActivity:unspecified] D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\build\intermediates\exploded-aar\src-app\initActivity\unspecified\AndroidManifest.xml:16:13-60
+	tools:replace
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:84:13-42
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:79:13-64
+activity#com.my51c.see51.ui.MainActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:86:9-98:20
+	android:label
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:89:13-45
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:90:13-42
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:88:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:87:13-59
+activity#com.my51c.see51.BaseActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:99:9-102:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:101:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:102:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:100:13-56
+activity#com.my51c.see51.ui.PlayerActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:104:9-110:77
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:107:13-42
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:110:13-65
+	android:permission
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:108:13-75
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:106:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:109:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:105:13-61
+activity#com.my51c.see51.ui.FourPlayerActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:111:9-117:81
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:114:13-42
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:117:13-69
+	android:permission
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:115:13-75
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:113:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:116:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:112:13-65
+activity#com.my51c.see51.guide.GuidSmartId
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:118:9-122:78
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:121:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:120:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:122:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:119:13-61
+activity#com.my51c.see51.guide.GuidAddByWifi
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:123:9-126:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:125:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:126:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:124:13-63
+activity#com.my51c.see51.ui.LocalSettingActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:127:9-131:78
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:130:13-42
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:129:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:131:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:128:13-67
+activity#com.my51c.see51.ui.ActionAlarmActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:132:9-136:78
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:135:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:134:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:136:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:133:13-66
+activity#com.my51c.see51.guide.Guide
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:139:9-142:56
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:142:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:141:13-113
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:140:13-55
+activity#com.my51c.see51.guide.Login
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:143:9-146:56
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:146:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:145:13-113
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:144:13-55
+activity#com.my51c.see51.guide.PlatformActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:147:9-151:78
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:150:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:149:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:151:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:148:13-66
+activity#com.my51c.see51.guide.DeviceIdActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:152:9-157:72
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:155:13-44
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:157:13-60
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:154:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:156:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:153:13-66
+activity#com.my51c.see51.guide.GuideSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:158:9-163:72
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:161:13-44
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:163:13-60
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:160:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:162:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:159:13-66
+activity#com.my51c.see51.guide.DimensionActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:164:9-169:72
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:167:13-44
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:169:13-60
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:166:13-113
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:165:13-67
+activity#com.my51c.see51.ui.DeviceInfoActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:170:9-173:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:172:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:173:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:171:13-65
+activity#com.my51c.see51.ui.RFDeviceInfoActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:174:9-177:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:176:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:177:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:175:13-67
+activity#com.my51c.see51.guide.GuidePrepareActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:179:9-182:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:181:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:182:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:180:13-70
+activity#com.my51c.see51.guide.CustWifiDialog
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:183:9-186:63
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:185:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:186:13-51
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:184:13-64
+activity#com.my51c.see51.guide.GuideSmartWifi
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:187:9-190:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:189:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:190:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:188:13-64
+activity#com.my51c.see51.guide.GuideSmartSound
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:191:9-194:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:193:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:194:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:192:13-65
+activity#com.my51c.see51.ui.SDRecordFolderActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:195:9-198:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:197:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:198:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:196:13-69
+activity#com.my51c.see51.ui.SDRecordFileActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:199:9-202:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:201:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:202:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:200:13-67
+activity#com.my51c.see51.ui.SDCalendarActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:203:9-206:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:205:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:206:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:204:13-65
+activity#com.my51c.see51.ui.CloudRecordActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:207:9-210:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:209:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:210:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:208:13-66
+activity#com.my51c.see51.ui.RfDeviceAddActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:211:9-215:78
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:214:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:213:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:215:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:212:13-66
+activity#com.my51c.see51.ui.AboutActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:216:9-220:78
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:219:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:218:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:220:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:217:13-60
+activity#com.my51c.see51.ui.BLPDetailActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:221:9-224:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:223:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:224:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:222:13-64
+PreferenceScreen
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:226:9-235:28
+	android:title
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:229:13-57
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:227:13-113
+	android:summary
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:228:13-61
+intent
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:230:13-234:64
+	android:action
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:231:17-60
+	android:targetClass
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:233:17-76
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:232:17-117
+	android:targetPackage
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:234:17-61
+activity#org.achartengine.GraphicalActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:237:9-239:116
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:239:13-113
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:238:13-62
+activity#com.my51c.see51.ui.LocalFileAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:241:9-244:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:243:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:244:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:242:13-59
+activity#com.my51c.see51.ui.LocalPicVideoAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:245:9-248:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:247:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:248:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:246:13-63
+activity#com.my51c.see51.ui.LocalDevListAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:249:9-252:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:251:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:252:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:250:13-62
+activity#com.my51c.see51.ui.GeneralInfoAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:253:9-256:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:255:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:256:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:254:13-61
+activity#com.my51c.see51.ui.WiredSettingAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:257:9-260:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:259:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:260:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:258:13-62
+activity#com.my51c.see51.ui.WirelessSettingAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:261:9-263:78
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:263:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:262:13-65
+activity#com.my51c.see51.ui.Net3GSettingAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:264:9-267:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:266:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:267:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:265:13-62
+activity#com.my51c.see51.ui.AVSettingAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:268:9-271:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:270:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:271:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:269:13-59
+activity#com.my51c.see51.ui.AlarmCloudRecordAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:272:9-275:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:274:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:275:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:273:13-66
+activity#com.my51c.see51.ui.PlayAcy
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:276:9-279:89
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:278:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:279:13-77
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:277:13-54
+service#com.baidu.location.f
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:281:9-284:49
+	android:enabled
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:283:13-35
+	android:process
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:284:13-38
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:282:13-48
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:286:9-289:64
+	android:value
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:289:13-61
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:287:13-52
+activity#com.my51c.see51.map.CameraLocation
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:291:9-294:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:293:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:294:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:292:13-62
+activity#com.my51c.see51.ui.SDRecordNVRActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:296:9-299:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:298:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:299:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:297:13-66
+activity#com.my51c.see51.ui.PlanOfRecordActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:302:9-305:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:304:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:305:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:303:13-67
+activity#com.my51c.see51.ui.NewPlanOfRecordActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:306:9-309:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:308:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:309:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:307:13-70
+activity#com.my51c.see51.app.HomeActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:316:9-318:78
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:318:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:317:13-60
+activity#com.my51c.see51.app.NetSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:319:9-323:76
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:323:13-64
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:321:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:322:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:320:13-62
+activity#com.my51c.see51.app.OneKeyStarActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:324:9-328:76
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:328:13-64
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:326:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:327:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:325:13-66
+activity#com.my51c.see51.app.VODActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:329:9-332:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:331:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:332:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:330:13-59
+activity#com.my51c.see51.app.SplashActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:333:9-342:20
+	android:label
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:336:13-45
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:335:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:337:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:334:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:338:13-341:29
+action#android.intent.action.MAIN
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:339:17-69
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:339:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:340:17-77
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:340:27-74
+activity#com.my51c.see51.app.WelcomeActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:343:9-346:78
+	android:label
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:345:13-45
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:346:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:344:13-63
+activity#com.my51c.see51.app.GaoJiAccountActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:348:9-352:78
+	android:label
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:351:13-45
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:350:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:352:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:349:13-68
+activity#com.my51c.see51.app.ForgetPasswordActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:353:9-357:78
+	android:label
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:356:13-45
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:355:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:357:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:354:13-70
+activity#com.my51c.see51.app.activity.PassActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:359:9-362:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:361:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:362:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:360:13-69
+activity#com.my51c.see51.app.activity.AcContactsDetails
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:364:9-367:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:366:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:367:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:365:13-74
+activity#com.my51c.see51.app.CallPersonActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:368:9-371:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:370:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:371:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:369:13-66
+activity#com.my51c.see51.app.LocationActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:372:9-375:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:374:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:375:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:373:13-64
+activity#com.my51c.see51.app.DeviceStatusActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:376:9-380:78
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:379:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:378:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:380:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:377:13-68
+activity#com.my51c.see51.app.routbw.FirewallInfoActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:382:9-385:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:384:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:385:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:383:13-75
+activity#com.my51c.see51.app.routbw.SystemInfoActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:387:9-390:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:389:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:390:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:388:13-73
+activity#com.my51c.see51.app.routbw.StaticrouteInfoActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:392:9-395:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:394:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:395:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:393:13-78
+activity#com.my51c.see51.app.VideoMeet
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:397:9-400:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:399:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:400:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:398:13-57
+activity#com.my51c.see51.app.VideoMonitorActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:401:9-404:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:403:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:404:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:402:13-68
+activity#com.my51c.see51.app.SetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:405:9-408:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:407:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:408:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:406:13-59
+activity#com.my51c.see51.app.VoipActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:409:9-412:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:411:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:412:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:410:13-60
+activity#com.my51c.see51.app.PersonalActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:413:9-416:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:415:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:416:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:414:13-64
+activity#com.my51c.see51.app.activity.SuperSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:417:9-420:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:419:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:420:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:418:13-73
+activity#com.my51c.see51.app.activity.PhoneActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:421:9-424:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:423:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:424:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:422:13-70
+activity#com.my51c.see51.app.activity.ReviseActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:425:9-428:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:427:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:428:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:426:13-71
+activity#com.my51c.see51.app.activity.OneStartActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:429:9-432:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:431:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:432:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:430:13-73
+activity#com.my51c.see51.app.activity.LinkStateActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:433:9-436:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:435:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:436:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:434:13-74
+activity#com.my51c.see51.app.activity.PasswordModifiActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:437:9-440:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:439:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:440:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:438:13-79
+activity#com.my51c.see51.app.activity.SystemUpdateActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:441:9-444:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:443:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:444:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:442:13-77
+activity#com.my51c.see51.app.activity.SuperSetRefActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:445:9-449:76
+	android:windowSoftInputMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:449:13-64
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:447:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:448:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:446:13-76
+activity#com.my51c.see51.app.activity.DebbugControlActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:450:9-453:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:452:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:453:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:451:13-78
+activity#com.my51c.see51.app.activity.DebugControlAnotherActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:454:9-457:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:456:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:457:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:455:13-84
+activity#com.my51c.see51.app.activity.BWOverlayActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:458:9-461:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:460:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:461:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:459:13-74
+activity#com.my51c.see51.app.activity.RoutingActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:462:9-465:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:464:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:465:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:463:13-72
+activity#com.my51c.see51.app.routbw.LanSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:466:9-469:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:468:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:469:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:467:13-69
+activity#com.my51c.see51.app.routbw.WanSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:470:9-473:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:472:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:473:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:471:13-69
+activity#com.my51c.see51.app.routbw.WifiSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:474:9-477:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:476:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:477:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:475:13-70
+activity#com.my51c.see51.app.routbw.WebAutSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:478:9-481:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:480:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:481:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:479:13-72
+activity#com.my51c.see51.app.routbw.BwSuperActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:482:9-485:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:484:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:485:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:483:13-70
+activity#com.my51c.see51.app.NetWorkSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:486:9-489:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:488:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:489:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:487:13-66
+activity#com.my51c.see51.app.NetWorkOptActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:490:9-493:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:492:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:493:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:491:13-66
+activity#com.my51c.see51.app.routbw.BwSuperInteferActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:494:9-497:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:496:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:497:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:495:13-77
+activity#com.my51c.see51.app.routbw.BwMenberActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:498:9-501:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:500:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:501:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:499:13-71
+activity#com.my51c.see51.app.routbw.BwPlanActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:502:9-505:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:504:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:505:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:503:13-69
+activity#com.my51c.see51.app.routbw.BwProjectActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:506:9-509:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:508:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:509:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:507:13-72
+activity#com.my51c.see51.app.routbw.ResWifiActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:510:9-513:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:512:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:513:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:511:13-70
+activity#com.my51c.see51.app.routbw.ResCommActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:514:9-517:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:516:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:517:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:515:13-70
+activity#com.my51c.see51.app.routbw.QosBaseSetActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:518:9-521:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:520:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:521:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:519:13-73
+activity#com.my51c.see51.app.activity.IPSpeedActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:522:9-525:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:524:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:525:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:523:13-72
+activity#com.my51c.see51.app.routbw.WhileListActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:526:9-529:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:528:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:529:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:527:13-72
+activity#com.my51c.see51.app.routbw.BlackListActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:530:9-533:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:532:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:533:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:531:13-72
+service#com.my51c.see51.app.service.XTService
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:535:9-81
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:535:18-70
+receiver#com.my51c.see51.app.service.AlarmReceiver
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:537:9-87
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:537:19-75
+uses-library#android.test.runner
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:539:9-60
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:539:23-57
+activity#com.my51c.see51.yzxvoip.YzxLogin2Activity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:541:9-544:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:543:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:544:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:542:13-69
+activity#com.my51c.see51.yzxvoip.IMRegisterV2Activity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:545:9-548:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:547:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:548:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:546:13-72
+activity#com.my51c.see51.yzxvoip.IMChatActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:552:9-556:78
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:555:13-44
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:554:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:556:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:553:13-66
+activity#com.my51c.see51.yzxvoip.DirectEntryActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:559:9-562:78
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:562:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:560:13-71
+activity#com.my51c.see51.yzxvoip.AddressConfigActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:563:9-566:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:565:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:566:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:564:13-73
+activity#com.my51c.see51.yzxvoip.AudioConverseActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:570:9-572:78
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:572:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:571:13-73
+activity#com.my51c.see51.yzxvoip.ConverseActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:574:9-577:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:576:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:577:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:575:13-68
+service#com.my51c.see51.yzxvoip.ConnectionService
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:580:9-582:59
+	android:launchMode
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:582:13-48
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:581:13-69
+service#com.yzxtcp.service.YzxIMCoreService
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:583:9-71
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:583:18-68
+service#com.my51c.see51.app.service.GpsService
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:584:9-82
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:584:18-71
+service#com.my51c.see51.app.service.ServiceUpdateUI
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:585:9-87
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:585:18-76
+receiver#com.yzxtcp.tools.tcp.receiver.AlarmReceiver
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:587:9-89
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:587:19-77
+receiver#com.yzxtcp.tools.tcp.receiver.MsgBackReceiver
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:588:9-91
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:588:19-79
+receiver#com.yzxtcp.tools.RtppReceiver
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:589:9-75
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:589:19-63
+activity#com.my51c.see51.app.locationHUO
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:592:9-595:69
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:594:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:595:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:593:13-59
+activity#com.my51c.see51.app.activity.ManualControlActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:596:9-599:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:598:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:599:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:597:13-78
+activity#com.my51c.see51.app.activity.CompassActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:600:9-603:78
+	android:screenOrientation
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:602:13-49
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:603:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:601:13-72
+activity#com.my51c.see51.app.activity.WarnInfoActivity
+ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:605:9-608:78
+	android:configChanges
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:607:13-113
+	android:theme
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:608:13-66
+	android:name
+		ADDED from D:\APP\WYZS\02_Android\CODE\trunk\STUDIO\v_3_1\src-app\synertone\src\main\AndroidManifest.xml:606:13-73
